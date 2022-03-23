@@ -1,2 +1,2 @@
 # git_test
-My firsr Githut repo!
+My first Githut repo!
